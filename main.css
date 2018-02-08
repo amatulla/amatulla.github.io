@@ -8,7 +8,7 @@ body {
   /* Set font family to be Helvetica or Arial */
   font-family: Arial, Helvetica, sans-serif; 
 
-  background-color: lavender;
+  background-color: plum;
 }
 
 header {
@@ -22,12 +22,12 @@ main {
   /* Set margin to be automatically calculated on all sides */
   margin: auto;
   /* Set padding to be 0 pixels top & bottom, and 20 pixels left & right */
-  padding: 0px 20px; 
+  padding: 0px 13px; 
 }
 
 p {
   /* Set font color to be the hex code 666666 */
-  color: brown; 
+  color: crimson; 
 }
 
 .faded {
@@ -47,13 +47,13 @@ h1 {
 
 h1 {
   /* Set font color to be purple (BONUS: try using a hex or rgb code!) */
-  color: blue;
+  color: indigo;
 }
 
 h2 {
 
-  color: green;
-  border-bottom: 3px solid maroon; 
+  color: teal;
+  border-bottom: 3px mediumvioletred; 
 
 }
 
