@@ -2,13 +2,13 @@ body {
   /* Set margin to 0 pixels on all sides */
   margin:0px;
   /* Set font size to be 20 pixels */
-  font-size: 20px;
+  font-size: 18px;
   /* Set line height to be 1.5 times larger than default */
   line-height: 150%;
   /* Set font family to be Helvetica or Arial */
   font-family: Arial, Helvetica, sans-serif; 
 
-  background-color: pink;
+  background-color: plum;
 }
 
 header {
@@ -53,15 +53,15 @@ h1 {
 h2 {
 
   color: green;
-  border-bottom: 3px solid red; 
+  border-bottom: 3px solid maroon; 
 
 }
 
 footer {
   /* Set font color to white */
   color: white;
-  /* Set background color to black */
-  background-color: magenta;
+  /* Set background color to purple */
+  background-color: darkmagenta;
   /* Set padding on all sides to be 20 pixels */
   padding: 2px;
   /* Set text alignment to center */
