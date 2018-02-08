@@ -8,7 +8,7 @@ body {
   /* Set font family to be Helvetica or Arial */
   font-family: Arial, Helvetica, sans-serif; 
 
-  background-color: plum;
+  background-color: lavender;
 }
 
 header {
@@ -61,7 +61,7 @@ footer {
   /* Set font color to white */
   color: white;
   /* Set background color to purple */
-  background-color: darkmagenta;
+  background-color: solid purple;
   /* Set padding on all sides to be 20 pixels */
   padding: 2px;
   /* Set text alignment to center */
