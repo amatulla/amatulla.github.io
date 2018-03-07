@@ -20,7 +20,8 @@ main {
   /* Set maximum width to be 800 pixels */
   max-width: 800px;
   /* Set margin to be automatically calculated on all sides */
-  margin: auto;
+  margin: auto; 
+  background-color: white;
   /* Set padding to be 0 pixels top & bottom, and 20 pixels left & right */
   padding: 0px 13px; 
 }
