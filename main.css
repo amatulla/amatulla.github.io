@@ -14,7 +14,7 @@ body {
 header {
   /* Set text alignment to center */
   text-align: center; 
-  background-color: white;
+  background-color: pink; 
   margin:300px 
 }
 
@@ -40,8 +40,8 @@ p {
 
 img {
   /* Set max width to be 100% of the containing element */
-  width: 120px;
-  height: 120px;
+  max-width: 120px;
+  max-height: 120px;
 }
 
 h1 {
