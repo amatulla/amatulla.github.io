@@ -40,7 +40,6 @@ p {
 
 img {
   /* Set max width to be 100% of the containing element */
-  max-width: 60%; 
   width: 120px;
   height: 120px;
 }
