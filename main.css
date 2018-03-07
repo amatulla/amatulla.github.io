@@ -40,8 +40,8 @@ p {
 
 img {
   /* Set max width to be 100% of the containing element */
-  max-width: 120px;
-  max-height: 120px;
+  max-width: 1000px;
+  max-height: 480px;
 }
 
 h1 {
