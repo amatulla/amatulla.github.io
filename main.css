@@ -15,12 +15,12 @@ header {
   /* Set text alignment to center */
   text-align: center; 
   background-color: pink; 
-  margin:100px 
+  margin:50px 
 }
 
 main {
   /* Set maximum width to be 800 pixels */
-  max-width: 800px;
+  max-width: 900px;
   /* Set margin to be automatically calculated on all sides */
   margin: auto; 
   background-color: white;
