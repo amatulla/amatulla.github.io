@@ -2,7 +2,7 @@ body {
   /* Set margin to 0 pixels on all sides */
   margin:0px;
   /* Set font size to be 20 pixels */
-  font-size: 18px;
+  font-size: 17px;
   /* Set line height to be 1.5 times larger than default */
   line-height: 150%;
   /* Set font family to be Helvetica or Arial */
@@ -14,13 +14,13 @@ body {
 header {
   /* Set text alignment to center */
   text-align: center; 
-  background-color: pink; 
-  margin:50px 
+  background-color: purple; 
+  margin: auto; 
 }
 
 main {
   /* Set maximum width to be 800 pixels */
-  max-width: 900px;
+  max-width: 850px;
   /* Set margin to be automatically calculated on all sides */
   margin: auto; 
   background-color: white;
