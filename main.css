@@ -56,7 +56,6 @@ img {
 .column {
   width: 25.00%;
   padding: 0;
-  display: inline-block;
 }
 
 /* Clear floats after image containers */
