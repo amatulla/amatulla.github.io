@@ -44,6 +44,13 @@ img {
   max-height: 500px;
 }
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 h1 {
   /* Set border along bottom to be a black solid line 5 pixels thick */
   border-bottom: 5px solid purple
