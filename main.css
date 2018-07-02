@@ -54,7 +54,7 @@ img {
 
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
-  width: 25.00%;
+  width: 20.00%;
   padding: 0;
   display: inline-block;
 }
