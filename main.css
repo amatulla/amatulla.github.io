@@ -56,13 +56,13 @@ img {
 .column {
   width: 25.00%;
   padding: 0;
+  display: inline-block;
 }
 
 /* Clear floats after image containers */
 .row::after {
   content: "";
   clear: both;
-  display: inline-block;
 }
 
 h1 {
