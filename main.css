@@ -42,6 +42,7 @@ img {
   /* Set max width to be 100% of the containing element */
   max-width: 500px;
   max-height: 500px;
+  display: inline-block
 }
 
 .center {
