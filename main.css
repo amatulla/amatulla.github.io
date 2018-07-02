@@ -54,9 +54,9 @@ img {
 
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
-  float: left;
   width: 25.00%;
   padding: 1px;
+  display: inline-block;
 }
 
 /* Clear floats after image containers */
@@ -64,6 +64,7 @@ img {
   content: "";
   clear: both;
   display: table;
+  text-align: center;
 }
 
 h1 {
