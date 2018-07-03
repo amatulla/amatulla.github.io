@@ -23,7 +23,7 @@ main {
   max-width: 870px;
   /* Set margin to be automatically calculated on all sides */
   margin: auto; 
-  background-color: #ceb8d8;
+  background-color: #d8cedd;
   /* Set padding to be 0 pixels top & bottom, and 20 pixels left & right */
   padding: 0px 10px; 
 }
