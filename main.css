@@ -20,12 +20,12 @@ header {
 
 main {
   /* Set maximum width to be 800 pixels */
-  max-width: 850px;
+  max-width: 870px;
   /* Set margin to be automatically calculated on all sides */
   margin: auto; 
-  background-color: white;
+  background-color: #ceb8d8;
   /* Set padding to be 0 pixels top & bottom, and 20 pixels left & right */
-  padding: 0px 13px; 
+  padding: 0px 10px; 
 }
 
 p {
