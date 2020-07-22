@@ -4,19 +4,16 @@ I am extremely passionate about my education in cognitive science and neuroscien
 
 <br> 
 
-<p>
-		Some of my interests: </p>
-		<ul type="circle">
-			<li>Watching hockey, cricket and football(soccer)</li>
-			<li>Cooking</li>
-			<li>Reading romance, mysteries and psychothrillers</li>
-			<li>Swimming, biking and travelling</li>
-			<li>Helping others (community involvement; volunteering) and Teaching</li>
-		</ul>
 
-		<h2>Education</h2>
-		<p>
-		HBSc. Neuroscience and Cognitive Science (Computational Cognition) Nov 2018<br />
-		University of Toronto<br />
-		St. George Campus<br />
-		</p>
+### Some of my interests: 
+* Watching hockey, cricket and football (soccer)
+* Cooking
+* Reading romance, mysteries and psychothrillers
+* Swimming, biking and travelling
+* Helping others (community involvement; volunteering) and Teaching
+
+### Education
+Currently in Medical Radiation Sciences at Uoft-Michener<br />
+Hold an HBSc. Neuroscience and Cognitive Science (Computational Cognition) Nov 2018<br />
+University of Toronto<br />
+St. George Campus<br />
