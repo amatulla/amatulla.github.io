@@ -1,4 +1,4 @@
-![Amatulla](img/amatullaaa_edited.jpg)![Me](img/amu.PNG)
+![Amatulla](img/amatullaaa_edited.jpg)[Me](img/amu.PNG)
 # Amatulla Lokhandwala 
 
 
