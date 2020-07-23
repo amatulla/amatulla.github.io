@@ -19,4 +19,4 @@ Hi everyone! My name is Amatulla; thank you for visiting my site. I'm *just begi
 Please feel free to get in touch with me by email: <a href="http://amatulla.lokhandwala@mail.utoronto.ca">amatulla.lokhandwala@mail.utoronto.ca</a>
 
 
-#### Thank you for visiting my website! 
+### Thank you for visiting my website! 
