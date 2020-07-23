@@ -1,4 +1,4 @@
-# My Favourites <3 :)
+# My Favourites ❤ 🙂
 	
 <br>
 Family Guy: Stewie and Brian 
