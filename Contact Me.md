@@ -4,7 +4,7 @@
 <br> 
 
 <center>
-<img src="img/yay.jpg" alt="yay" style="width:500px;height:200px;border:0;"></center>
+<img src="img/yay.jpg" alt="yay" style="width:500px;height:225px;border:0;"></center>
 <br>
 ## You can reach me at the following emails:
 * amatulla.lokhandwala@mail.utoronto.ca
