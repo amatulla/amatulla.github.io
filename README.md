@@ -2,20 +2,21 @@
 # Amatulla Lokhandwala 
 
 
-Hi everyone! My name is Amatulla; thank you for visiting my site. I'm just beginning to learn web-dev, so it's under construction :P. Thanks for your patience... :)
+Hi everyone! My name is Amatulla; thank you for visiting my site. I'm *just beginning* to learn web-dev, so it's under construction :P. *Thanks for your patience*... :)
 
+<br>
 <center>
 <img src="img/amatullaaa_edited.jpg" alt="mee!" style="width:380px;height:380px;border:0;"></center>
 
 <br>
 
-> A Little Bit About Me: I am extremely passionate about my education in cognitive science and neuroscience and aim to use what I have learned to have a deeper understanding of the mind and our cognitive capacities. With that I would like to optimize human functionality and enrich education research/teaching. I aim to pursue a career in which I can apply my love for tech and programming with optimizing our cognition and compliment, as well as enhance our cognitive capacities.
+> **A Little Bit About Me:** I am *extremely* passionate about my education in Cognitive Science and Neuroscience and am avid learner. I completed my Bachelor’s degree in 2018. Currently, I am on route to earning my *second* degree in Medical Radiation Sciences from Uoft-Michener (Class of 2023). My goals in life are to optimize human functionality, enrich education for elementary and high school students, and help and improve people’s quality of life. I am super down to Earth (and chill ;)) and enjoy the world’s natural beauties. I love swimming, biking, and running. In my free time I like to give to others, volunteer, and teach. (*Also, I'm totally obsessed with sheeps, zebras, llamas and bunnies* ❤.) 
 
 <br>
 
 * * *
 
-Please feel free to get in touch with me by email: <a href="http://amatulla.lokhandwala@alum.utoronto.ca">amatulla.lokhandwala@alum.utoronto.ca</a>
+Please feel free to get in touch with me by email: <a href="http://amatulla.lokhandwala@mail.utoronto.ca">amatulla.lokhandwala@mail.utoronto.ca</a>
 
 
 #### Thank you for visiting my website! 
