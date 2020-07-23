@@ -3,15 +3,15 @@
 
 <br> 
 
-You can reach me at the following emails:
+## You can reach me at the following emails:
 * amatulla.lokhandwala@mail.utoronto.ca
 * 20al2@michener.ca
 * amatulla.lokhandwala@neurotechx.com
 
 <br>
 
-Or Connect With Me!
-
+## Or Connect With Me!
+<br>
 <center> 	
 		<div class="row">
   			<div class="column">
