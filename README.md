@@ -1,6 +1,6 @@
 
 <center>
-<img src="img/amu.PNG" alt="amu" style="width:670px;height:520px;border:0;"></center>
+<img src="img/amu.PNG" alt="amu" style="width:670px;height:480px;border:0;"></center>
 # Amatulla Lokhandwala 
 
 
