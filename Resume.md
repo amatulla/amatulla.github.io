@@ -9,7 +9,8 @@
 
 ## .. In the meantime .. 
 
-You can email me at **amatulla.lokhandwala@mail.utoronto.ca** and we can work something out! 
+#### You can <a href="mailto:amatulla.lokhandwala@mail.utoronto.ca">email me</a> and we can work something out! 
+
 <br>
 <center>
 <img src="img/starsmiley.png" alt="starsmiley" style="width:290px;height:290px;border:0;"></center>
