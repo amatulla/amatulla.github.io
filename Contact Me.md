@@ -13,7 +13,7 @@
 
 <br>
 
-## Or Connect With Me!
+## Or Connect With Me on these Platforms!
 <br>
 <center> 	
 		<div class="row">
@@ -31,7 +31,7 @@
 			</div>
   			<div class="column">
 			
-				<a href="https://mailto:amatulla.lokhandwala@mail.utoronto.ca">
+				<a href="https://mailto:amatulla.lokhandwala@neurotechx.com">
   					<img src="img/mail.png" alt="mail link" style="width:55px;height:55px;border:0;">
 				</a>
 		
