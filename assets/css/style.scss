@@ -1,32 +1,32 @@
 ---
 ---
 
-$blockquote-text-color: #370b51;
+$blockquote-text-color: #370b51; // Indigo purple
 
-$border-color: #34aeb5;
+$border-color: #34aeb5; // dark turquoise 
 
-$section-headings-color: #8c00a8;
+$section-headings-color: #8c00a8; // Purple header 
 
-$table-border-color: #34aeb5;
+$table-border-color: #34aeb5; // dark turquoise
 
 @import "{{ site.theme }}";
 
 .page-header {
-  color: #73364c;
+  color: #73364c; maroon 
   text-align: center;
-  background-color: #a88399;
+  background-color: #a88399; // light plum 
   background-image: linear-gradient(120deg, #a88399, #7f7fff);
   
  } 
 
 body {
   padding: 10px;
-  background-color: #75d0e0; 
+  background-color: #bbe7ef; // light light turquoise 
   margin: 0;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #af6681;
+  color: #af6681; // light plum 
  
 }
 
