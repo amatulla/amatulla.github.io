@@ -77,5 +77,19 @@ table {
     }
   }
 
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  width: 20.00%;
+  padding: 0;
+  display: inline-block;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+}
+
+
   
   
