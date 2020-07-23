@@ -1,4 +1,6 @@
-![Me](img/amu.PNG)
+
+<center>
+<img src="img/amu.png" alt="amu" style="width:670px;height:520px;border:0;"></center>
 # Amatulla Lokhandwala 
 
 
