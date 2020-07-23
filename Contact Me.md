@@ -1,6 +1,17 @@
 
 # Want to Connect? 
 
+<br> 
+
+You can reach me at the following emails:
+* amatulla.lokhandwala@mail.utoronto.ca
+* 20al2@michener.ca
+* amatulla.lokhandwala@neurotechx.com
+
+<br>
+
+Or Connect With Me!
+
 <center> 	
 		<div class="row">
   			<div class="column">
@@ -17,7 +28,7 @@
 			</div>
   			<div class="column">
 			
-				<a href="https://mailto:amatulla.lokhandwala@alum.utoronto.ca">
+				<a href="https://mailto:amatulla.lokhandwala@mail.utoronto.ca">
   					<img src="img/mail.png" alt="mail link" style="width:55px;height:55px;border:0;">
 				</a>
 		
