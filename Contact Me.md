@@ -7,9 +7,9 @@
 <img src="img/yay.jpg" alt="yay" style="width:500px;height:225px;border:0;"></center>
 <br>
 ## You can reach me at the following emails:
-* amatulla.lokhandwala@mail.utoronto.ca
-* 20al2@michener.ca
-* amatulla.lokhandwala@neurotechx.com
+* <a href="mailto:amatulla.lokhandwala@mail.utoronto.ca">amatulla.lokhandwala@mail.utoronto.ca</a>
+* <a href="mailto:20al2@michener.ca">20al2@michener.ca</a>
+* <a href="mailto:amatulla.lokhandwala@neurotechx.com">amatulla.lokhandwala@neurotechx.com</a>
 
 <br>
 
@@ -26,7 +26,7 @@
   			<div class="column">
 			
 				<a href="https://github.com/amatulla">
-  					<img src="img/githublogo.png" alt="github link" style="width:60px;height:60px;border:0;">
+  					<img src="img/githublogo.png" alt="github link" style="width:65px;height:65px;border:0;">
 				</a>
 			</div>
   			<div class="column">
