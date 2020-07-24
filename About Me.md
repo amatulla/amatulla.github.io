@@ -1,6 +1,12 @@
 # About Me 
 
 I am extremely passionate about my education in cognitive science and neuroscience and aim to use what I have learned to have a deeper understanding of the mind and our cognitive capacities. With that I would like to optimize human functionality and enrich education research/teaching. I aim to pursue a career in which I can apply my love for tech and programming with optimizing our cognition and compliment, as well as enhance our cognitive capacities.
+<br> 
+
+<center>
+<img src="img/brain.png" alt="brain" style="width:250px;height:250px;border:25px;"></center>
+<center>
+<img src="img/braintech.png" alt="braintech" style="width:250px;height:250px;border:25px;"></center>
 
 <br> 
 ### Some of my interests: 
