@@ -12,7 +12,7 @@ Hi everyone! My name is Amatulla; thank you for visiting my site. I'm *just begi
 
 <br>
 
-> **A Little Bit About Me:** I am *extremely* passionate about my education in Cognitive Science and Neuroscience and am avid learner. I completed my Bachelor’s degree in 2018. Currently, I am on route to earning my *second* degree in Medical Radiation Sciences from Uoft-Michener (Class of 2023). My goals in life are to optimize human functionality, enrich education for elementary and high school students, and help and improve people’s quality of life. I am super down to Earth (and chill ;)) and enjoy the world’s natural beauties. I love swimming, biking, and running. In my free time I like to give to others, volunteer, and teach. (*Also, I'm totally obsessed with sheeps, zebras, llamas and bunnies* ❤.) 
+> **A Little Bit About Me:** I am *extremely* passionate about my education in Cognitive Science and Neuroscience and am an avid learner. I completed my Bachelor’s degree in 2018. Currently, I am on route to earning my *second* degree in Medical Radiation Sciences from Uoft-Michener (Class of 2023). My goals in life are to optimize human functionality, enrich education for elementary and high school students, and help and improve people’s quality of life. I am super down to Earth (and chill ;)) and enjoy the world’s natural beauties. I love swimming, biking, and running. In my free time I like to give to others, volunteer, and teach. (*Also, I'm totally obsessed with sheeps, zebras, llamas and bunnies* ❤.) 
 
 <br>
 
