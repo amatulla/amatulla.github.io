@@ -16,7 +16,7 @@ I am extremely passionate about my education in cognitive science and neuroscien
 <br> 
 
 <center>
-<img src="img/sports.png" alt="sports" style="width:150px;height:150px;border:40px solid #bbe7ef"><img src="img/Books.png" alt="Books" style="width:150px;height:150px;border:40px solid #bbe7ef"><img src="img/worldhands.png" alt="worldhands" style="width:150px;height:150px;border:40px solid #bbe7ef"></center>
+<img src="img/sports.png" alt="sports" style="width:200px;height:200px;border:40px solid #bbe7ef"><img src="img/Books.png" alt="Books" style="width:200px;height:200px;border:40px solid #bbe7ef"><img src="img/worldhands.png" alt="worldhands" style="width:230px;height:200px;border:40px solid #bbe7ef"></center>
 
 
 ## Education
