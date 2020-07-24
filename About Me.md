@@ -13,6 +13,10 @@ I am extremely passionate about my education in cognitive science and neuroscien
 * Reading romance, mysteries and psychothrillers
 * Swimming, biking and travelling
 * Helping others (community involvement; volunteering) and Teaching
+<br> 
+
+<center>
+<img src="img/sports.png" alt="sports" style="width:150px;height:150px;border:40px solid #bbe7ef"><img src="img/Books.png" alt="Books" style="width:150px;height:150px;border:40px solid #bbe7ef"><img src="img/worldhands.png" alt="worldhands" style="width:150px;height:150px;border:40px solid #bbe7ef"></center>
 
 
 ## Education
