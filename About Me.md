@@ -7,16 +7,19 @@ I am extremely passionate about my education in cognitive science and neuroscien
 <img src="img/brain.png" alt="brain" style="width:250px;height:250px;border:30px solid #bbe7ef"><img src="img/braintech.png" alt="braintech" style="width:300px;height:250px;border:30px solid #bbe7ef"></center>
 
 <br> 
-### Some of my interests: 
+## Some of my interests: 
 * Watching hockey, cricket and football (soccer)
 * Cooking
 * Reading romance, mysteries and psychothrillers
 * Swimming, biking and travelling
 * Helping others (community involvement; volunteering) and Teaching
 
-<br />
-### Education
-Currently in Medical Radiation Sciences at Uoft-Michener<br />
+<br>
+## Education
+Currently in Medical Radiation Sciences at Uoft-Michener (Class of 2023)<br />
 Hold an HBSc. Neuroscience and Cognitive Science (Computational Cognition) Nov 2018<br />
 University of Toronto<br />
 St. George Campus<br />
+
+## Words To Live By
+*"Live in such a way that if anyone should speak badly of you no one would believe it."
