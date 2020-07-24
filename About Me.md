@@ -4,7 +4,7 @@ I am extremely passionate about my education in cognitive science and neuroscien
 <br> 
 
 <center>
-<img src="img/brain.png" alt="brain" style="width:250px;height:250px;border:20px solid #bbe7ef"><img src="img/braintech.png" alt="braintech" style="width:300px;height:250px;border:20px solid #bbe7ef"></center>
+<img src="img/brain.png" alt="brain" style="width:250px;height:250px;border:30px solid #bbe7ef"><img src="img/braintech.png" alt="braintech" style="width:300px;height:250px;border:30px solid #bbe7ef"></center>
 
 <br> 
 ### Some of my interests: 
