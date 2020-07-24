@@ -12,20 +12,21 @@ I've recently got myself into Bob's Burgers (gotta hate Tina :P); my old time fa
 ## Movies
 ❤ Mission Impossible Series, Day and Knight, and 1408
 
+<br>
 ## YouTube Vids
 
 <center>
-Family Guy: Stewie and Brian ❤
+Family Guy: Stewie and Brian ❤ The strongest pair in the family. 
 <iframe width="490" height="276" src="https://www.youtube.com/embed/oY7la9xbxuI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 		
 <br>
 <center>
-One of my fav Cyanide and Happiness shorts
+One of my fav Cyanide and Happiness shorts (but they are all so good)!
 <iframe width="490" height="276" src="https://www.youtube.com/embed/YhndvEy8_xk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 		
 <br>
 <center>
-Cute animated story about this guy's heart 🙂
+Cute animated story about this guy's heart 🙂 (has to follow his heart quite literally)
 <iframe width="490" height="276" src="https://www.youtube.com/embed/sAaqLIsOmCE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 		
 <br>
@@ -35,7 +36,7 @@ Must Watch! Story of a blind girl who got her sight back...
 		
 <br>
 <center>
-Forgetful Baby Dory :3
+Forgetful Baby Dory :3 (she is to die for ❤, still not better than Nemo though)
 <iframe width="490" height="276" src="https://www.youtube.com/embed/i3kIpCzLzEo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 		
 <br>
