@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 # My Favourites ❤ 🙂
 	
 ## Books
@@ -50,3 +52,10 @@ Honoured to have John as my prof at UofT for four semesters!
 <iframe width="420" height="236" src="https://www.youtube.com/embed/qKvRUfZ_u1o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><iframe width="420" height="236" src="https://www.youtube.com/embed/WpVVcVRkLok" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 <center>		
 <iframe width="420" height="236" src="https://www.youtube.com/embed/XRz1_QlB_O0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+
+* * * 
+<center>
+<a href="#top"><img src="img/back2top.png" alt="back to top" style="width:50px;height:50px;border:0;"></a>
+</center>
+
+
