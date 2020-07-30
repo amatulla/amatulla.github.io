@@ -1,9 +1,8 @@
 
+<a name="top"></a> 
 <center>
 <img src="img/amu.PNG" alt="amu" style="width:580px;height:415px;border:0;"></center>
 # Amatulla Lokhandwala 
-
-<a name="top"></a> 
 
 Hi everyone! My name is Amatulla; thank you for visiting my site. I'm *just beginning* to learn web-dev, so it's under construction :P. *Thanks for your patience*... :)
 
