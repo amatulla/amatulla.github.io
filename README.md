@@ -54,5 +54,7 @@ Please feel free to get in touch with me by email: <a href="mailto:amatulla.lokh
 		</div></center>
 		
 * * * 
-<center><a href="top"><img src="img/back2top.png" alt="back to top" style="width:50px;height:50px;border:0;"></center>
+<center>
+<a href="top"><img src="img/back2top.png" alt="back to top" style="width:50px;height:50px;border:0;">
+</center>
     
