@@ -3,6 +3,7 @@
 <img src="img/amu.PNG" alt="amu" style="width:580px;height:415px;border:0;"></center>
 # Amatulla Lokhandwala 
 
+<a name="top"></a> 
 
 Hi everyone! My name is Amatulla; thank you for visiting my site. I'm *just beginning* to learn web-dev, so it's under construction :P. *Thanks for your patience*... :)
 
@@ -18,7 +19,7 @@ Hi everyone! My name is Amatulla; thank you for visiting my site. I'm *just begi
 
 * * *
 
-Please feel free to get in touch with me by email: <a href="http://amatulla.lokhandwala@mail.utoronto.ca">amatulla.lokhandwala@mail.utoronto.ca</a>
+Please feel free to get in touch with me by email: <a href="mailto:amatulla.lokhandwala@mail.utoronto.ca">amatulla.lokhandwala@mail.utoronto.ca</a>
 
 
 ### Thank you for visiting my website! 
@@ -51,4 +52,7 @@ Please feel free to get in touch with me by email: <a href="http://amatulla.lokh
 				</a>
 			</div>
 		</div></center>
+		
+* * * 
+<center><a href="top"><img src="img/back2top.png" alt="back to top" style="width:50px;height:50px;border:0;"></center>
     
