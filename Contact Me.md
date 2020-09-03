@@ -42,6 +42,13 @@
   					<img src="img/linkedin.png" alt="linkedin link" style="width:60px;height:60px;border:0;">
 				</a>
 			</div>
+			
+			<div class="column">
+
+				<a href="https://www.instagram.com/amatulla_lokhandwala/">
+  					<img src="img/insta_logo.png" alt="insta link" style="width:63px;height:63px;border:0;">
+				</a>
+			</div>
 		</div></center>
 
 
