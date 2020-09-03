@@ -50,6 +50,12 @@ Please feel free to get in touch with me by email: <a href="mailto:amatulla.lokh
   					<img src="img/linkedin.png" alt="linkedin link" style="width:50px;height:50px;border:0;">
 				</a>
 			</div>
+			<div class="column">
+
+				<a href="https://www.instagram.com/amatulla_lokhandwala/">
+  					<img src="img/insta_logo.png" alt="insta link" style="width:50px;height:50px;border:0;">
+				</a>
+			</div>
 		</div></center>
 		
 * * * 
