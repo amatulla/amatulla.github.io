@@ -9,7 +9,6 @@
 ## You can reach me at the following emails:
 * <a href="mailto:amatulla.lokhandwala@mail.utoronto.ca">amatulla.lokhandwala@mail.utoronto.ca</a>
 * <a href="mailto:20al2@michener.ca">20al2@michener.ca</a>
-* <a href="mailto:amatulla.lokhandwala@neurotechx.com">amatulla.lokhandwala@neurotechx.com</a>
 
 <br>
 
@@ -45,7 +44,7 @@
 			
 			<div class="column">
 
-				<a href="https://www.instagram.com/amatulla_lokhandwala/">
+				<a href="https://www.instagram.com/amatulla_panwala/">
   					<img src="img/insta_logo.png" alt="insta link" style="width:63px;height:63px;border:0;">
 				</a>
 			</div>
