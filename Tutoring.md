@@ -10,7 +10,7 @@ Please feel free to get in touch with me by email: <a href="mailto:amatulla.lokh
 <br>
 
 <center>
-<img src="img/Need tutoring.png" alt="flyer" style="width:1000px;height:1295px;border:2px solid #bbe7ef"></center>
+<img src="img/Need tutoring.png" alt="flyer" style="width:800px;height:1035px;border:2px solid #bbe7ef"></center>
 
 
 
