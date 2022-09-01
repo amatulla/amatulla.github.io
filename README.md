@@ -4,8 +4,6 @@
 <img src="img/amu.PNG" alt="amu" style="width:580px;height:415px;border:0;"></center>
 # Amatulla Panwala 
 
-Hi everyone! My name is Amatulla; thank you for visiting my site. I'm *just beginning* to learn web-dev, so it's under construction :P. *Thanks for your patience*... :)
-
 <br>
 <center>
 <img src="img/amatullaaa_edited.jpg" alt="mee!" style="width:380px;height:380px;border:0;"></center>
