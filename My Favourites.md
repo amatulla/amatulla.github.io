@@ -8,19 +8,14 @@ I have *so* many books that I love, but the ones that made my list are: "A Thous
 I love **everything** by Billie Eilish, especially *'Lovely'*. Also love 'Jealous' by Labrinth, 'Adventure of a Lifetime' by Coldplay, and 'Can't Stop the Feeling' by Justin Timberlake. 
 
 ## TV Shows
-I've recently got myself into Bob's Burgers (gotta hate Tina :P); my old time favourites are The Simpsons, Friends, HIMYM, B99, and Teen Wolf. 
+Young Sheldon, Never Have I Ever, Bob's Burgers (gotta hate Tina :P); my old time favourites are The Simpsons, Friends, HIMYM, B99, PLL, and Teen Wolf. 
 
 ## Movies
 ❤ Mission Impossible Series, Day and Knight, and 1408
 
 <br>
 ## YouTube Vids
-
-<center>
-Family Guy: Stewie and Brian ❤ The strongest pair in the family. 
-<iframe width="490" height="276" src="https://www.youtube.com/embed/oY7la9xbxuI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 		
-<br>
 <center>
 One of my fav Cyanide and Happiness shorts (but they are all so good)!
 <iframe width="490" height="276" src="https://www.youtube.com/embed/YhndvEy8_xk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
