@@ -2,7 +2,7 @@
 
 # About Me 
 
-I am extremely passionate about my education in cognitive science and neuroscience and aim to use what I have learned to have a deeper understanding of the mind and our cognitive capacities. With that I would like to optimize human functionality and enrich education research/teaching. Currently, I am pursuing education in Radiological Technology to integrate my love for human-interaction and providing care with my love for technology and healthcare.
+I am extremely passionate about my education in cognitive science and neuroscience and aim to use what I have learned to have a deeper understanding of the mind and our cognitive capacities. With that I would like to optimize human functionality and enrich education research/teaching. Recently, I completed education in Radiological Technology to integrate my love for human-interaction and providing care with my love for technology and healthcare.
 <br> 
 
 <center>
@@ -10,7 +10,7 @@ I am extremely passionate about my education in cognitive science and neuroscien
 
 
 ## Some of my interests: 
-* Watching romance, mystery, and psychothriller movies
+* Watching romance, horror, and psychothriller movies
 * Swimming, biking and travelling
 * Helping others (community involvement; volunteering) and Teaching
 <br> 
@@ -21,8 +21,8 @@ I am extremely passionate about my education in cognitive science and neuroscien
 
 ## Education
 Student Radiological Technologist<br />
-Currently in Medical Radiation Sciences at Uoft-Michener (Class of 2023)<br />
-Hold an HBSc. Neuroscience and Cognitive Science (Computational Cognition) Nov 2018<br />
+BSc. Medical Radiation Sciences (Radiological Technology) Apr 2023<br />
+HBSc. Neuroscience and Cognitive Science (Computational Cognition) Nov 2018<br />
 University of Toronto<br />
 St. George Campus<br />
 
