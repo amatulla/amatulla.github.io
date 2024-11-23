@@ -6,7 +6,7 @@ The pandemic has been a rough time for all of us, forcing us to stay in our home
 I've been a tutor for over five years now, even tutoring during the years of the pandemic. I'm comfortable tutoring both in-person and have years of experience tutoring on an online platform too, to those students who have found it comfortable to be on their laptops studying. I have a passion for teaching math and sciences and allowing students to explore their "Aha!" moments while learning. If you or your child needs tutoring please feel free to contact me! I can tutor from Kindergarten to Grade 11 (all maths and sciences) at a very affordable rate (and online!). Thank you all!
 <br> 
 
-Please feel free to get in touch with me by email: <a href="mailto:amatulla.lokhandwala@mail.utoronto.ca">amatulla.lokhandwala@mail.utoronto.ca</a>
+Please feel free to get in touch with me by email: <a href="mailto:amatulla.lokhandwala.mrt@gmail.com">amatulla.lokhandwala.mrt@gmail.com</a>
 <br>
 
 <center>
