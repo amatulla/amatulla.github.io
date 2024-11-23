@@ -9,7 +9,7 @@
 
 ## .. In the meantime .. 
 
-### You can <a href="mailto:amatulla.lokhandwala@mail.utoronto.ca">email me</a> and we can work something out! 
+### You can <a href="mailto:amatulla.lokhandwala.mrt@gmail.com">email me</a> and we can work something out! 
 
 
 <center>
