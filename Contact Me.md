@@ -7,7 +7,7 @@
 <img src="img/yay.jpg" alt="yay" style="width:500px;height:225px;border:0;"></center>
 <br>
 ## You can reach me at the following emails:
-* <a href="mailto:amatulla.lokhandwala@mail.utoronto.ca">amatulla.lokhandwala@mail.utoronto.ca</a>
+* <a href="mailto:amatulla.lokhandwala.mrt@gmail.com">amatulla.lokhandwala.mrt@gmail.com</a>
 * <a href="mailto:20al2@michener.ca">20al2@michener.ca</a>
 
 <br>
@@ -30,7 +30,7 @@
 			</div>
   			<div class="column">
 			
-				<a href="mailto:amatulla.lokhandwala@mail.utoronto.ca">
+				<a href="mailto:amatulla.lokhandwala.mrt@gmail.com">
   					<img src="img/mail.png" alt="mail link" style="width:60px;height:60px;border:0;">
 				</a>
 		
