@@ -9,13 +9,13 @@
 
 <br>
 
-> **A Little Bit About Me:** I am *extremely* passionate about my education in Cognitive Science and Neuroscience and am an avid learner. I completed my first Bachelor’s degree in 2018 in Cognitive Neuroscience. I just completed my *second* degree in Medical Radiation Sciences from Uoft-Michener in 2023. I am happily married. My goals in life are to optimize human functionality, enrich education for elementary and high school students, and help and improve people’s quality of life. I am super down to Earth and enjoy the world’s natural beauties. I love swimming, biking, and running. In my free time I like to give to others, volunteer, teach, and spend time with my hubby.❤
+> **A Little Bit About Me:** I am *extremely* passionate about my education in Cognitive Science and Neuroscience and am an avid learner. I completed my first Bachelor’s degree in 2018 in Cognitive Neuroscience. I just completed my *second* degree in Medical Radiation Sciences from Uoft-Michener in 2023, and working as an MRT(R). I am happily married. My goals in life are to optimize human functionality, enrich education for elementary and high school students, and help and improve people’s quality of life. I am super down to Earth and enjoy the world’s natural beauties. I love swimming, biking, and running. In my free time I like to give to others, volunteer, teach, and spend time with my hubby.❤
 
 <br>
 
 * * *
 
-Please feel free to get in touch with me by email: <a href="mailto:amatulla.lokhandwala@mail.utoronto.ca">amatulla.lokhandwala@mail.utoronto.ca</a>
+Please feel free to get in touch with me by email: <a href="mailto:amatulla.lokhandwala.mrt@gmail.com">amatulla.lokhandwala.mrt@gmail.com</a>
 
 
 ### Thank you for visiting my website! 
@@ -36,7 +36,7 @@ Please feel free to get in touch with me by email: <a href="mailto:amatulla.lokh
 			</div>
   			<div class="column">
 			
-				<a href="mailto:amatulla.lokhandwala@mail.utoronto.ca">
+				<a href="mailto:amatulla.lokhandwala.mrt@gmail.com">
   					<img src="img/mail.png" alt="mail link" style="width:40px;height:40px;border:0;">
 				</a>
 		
